@@ -1,4 +1,4 @@
-# DescomplicandoKubernetes
+# Descomplicando Kubernetes
 
 Repositório de Estudos do Curso Descomplicando Kubernetes da Linuxtips.
 _____________________________________________________________________
